@@ -1,0 +1,1 @@
+double*  testrun(int d,int r,int n);
